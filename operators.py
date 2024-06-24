@@ -22,9 +22,9 @@ x += 2
 print(x)
 # logic operator - and or not
 number = 5
-print(number < 10 and number > 20) # all should be true ar else false
+print(number < 10 and number > 20) # all should be true or else false
 print(number < 10 or number > 20)
-print(not(number < 10 or number > 20))#  reseverses the prev result
+print(not(number < 10 or number > 20))# reseverses the prev result
 
 
 # operator precedence
