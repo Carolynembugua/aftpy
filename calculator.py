@@ -1,6 +1,6 @@
 # simple calc programme
-num1 = int(input("Enter first number: "))
-num2 = int(input("Enter second number: "))
+num1 = float(input("Enter first number: "))
+num2 = float(input("Enter second number: "))
 operator = input("Enter operator: ")
 if operator == "+":
     print(num1 + num2)
